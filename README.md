@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Clone Dude</h1>
 <h3 align="center">Cybersecurity Enthusiast | OSINT Researcher | Digital Detective 🕵️‍♂️🔐</h3>
 
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/assets/banner.png?raw=true" alt="Banner" width="100%">
+</p>
 ---
 
 ### 🧠 About Me
