@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://github.com/clonedude0101/clonedude0101/blob/main/assets/banner.png?raw=true" alt="Banner" width="100%">
 </p>
----
 
 ### 🧠 About Me
 - 🔍 I explore the world of **cybersecurity** and **open-source intelligence (OSINT)**
