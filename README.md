@@ -1,15 +1,41 @@
-# Hi, I'm Clone Dude 👋
+<h1 align="center">Hi 👋, I'm Clone Dude</h1>
+<h3 align="center">Cybersecurity Enthusiast | OSINT Researcher | Digital Detective 🕵️‍♂️🔐</h3>
 
-🔐 Cybersecurity Enthusiast | 🕵️ OSINT Researcher
+---
 
-- 🌱 Currently learning: [e.g., Malware Analysis, Threat Intel]
-- 🔭 Working on: [current project]
-- 💬 Ask me about: [Recon, CTFs, Digital Forensics]
-- 📫 Reach me: [email/LinkedIn/Twitter]
+### 🧠 About Me
+- 🔍 I explore the world of **cybersecurity** and **open-source intelligence (OSINT)**
+- 🌱 Currently learning: `Malware Analysis`, `Threat Intelligence`, `Network Forensics`
+- 🛠️ Interests: recon methodologies, digital footprint analysis, CTF challenges
+- 💬 Ask me about: OSINT tools, security research, or CTFs
+- 📫 Reach me: [clonedude@atomicmail.io]
+- ⚡ Fun fact: I break things to understand how to fix them
 
-## 🛠️ Tools & Tech
-![Python](https://img.shields.io/badge/-Python-black?logo=python)
-![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
+---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+### 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat-square&logo=wireshark)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+---
+
+### 🕵️ OSINT & Security Toolkit
+- Maltego
+- theHarvester
+- Shodan
+- SpiderFoot
+- Nmap
+- Burp Suite
+
+*(edit this list to match tools you actually use)*
+
+---
+
+<p align="center">
+  <i>🔐 "The quieter you become, the more you are able to hear."</i>
+</p>
