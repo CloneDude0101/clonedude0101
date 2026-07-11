@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | OSINT Researcher | Digital Detective 🕵️‍♂️🔐</h3>
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/assets/banner.png?raw=true" alt="Banner" width="100%">
+  <img src="https://github.com/clonedude0101/clonedude0101/blob/main/assets/banner.png?raw=true" alt="Banner" width="100%">
 </p>
 ---
 
