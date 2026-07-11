@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**CloneDude0101/clonedude0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Enthusiast | 🕵️ OSINT Researcher
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: [e.g., Malware Analysis, Threat Intel]
+- 🔭 Working on: [current project]
+- 💬 Ask me about: [Recon, CTFs, Digital Forensics]
+- 📫 Reach me: [email/LinkedIn/Twitter]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Tech
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
