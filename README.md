@@ -32,8 +32,6 @@
 - Nmap
 - Burp Suite
 
-*(edit this list to match tools you actually use)*
-
 ---
 
 <p align="center">
